@@ -6,7 +6,7 @@ This project was built using Go with the framework GORM to manipulate the data t
 
 To run the project, be sure that you have the [Go](https://go.dev/) in your machine.
 
-After clone the project, build the it.
+After the project was cloned, build it.
 
 ```
 go build
